@@ -1,7 +1,6 @@
 @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
 ul {
     padding: 10x;
-    background: #86cecb;
 }
 li {
     display: inline;
