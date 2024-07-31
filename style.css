@@ -10,4 +10,12 @@ body {
     background-image: url('/src/Background.png');
     background-size: cover;
     background-repeat: no-repeat;
+    text-align: center;
+}
+header {
+    text-align: center;
+}
+#profile {
+    width: 150px;
+    height: 150px;
 }
