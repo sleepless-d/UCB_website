@@ -1,0 +1,13 @@
+ul {
+    padding: 10x;
+    background: #86cecb;
+}
+li {
+    display: inline;
+    padding: 3px 3px 0px 10px;
+}
+body {
+    background-image: url('/src/Background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
