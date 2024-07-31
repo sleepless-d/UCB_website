@@ -1,3 +1,4 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
 ul {
     padding: 10x;
     background: #86cecb;
@@ -7,6 +8,7 @@ li {
     padding: 3px 3px 0px 10px;
 }
 body {
+    font-family: "Pretendard Variable", Pretendard;
     text-align: center;
 }
 header {
